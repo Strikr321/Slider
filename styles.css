@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.slider-container {
+    margin-top: 100px;
+}
+
+#slider {
+    width: 300px;
+}
+
+#slider-value {
+    font-size: 24px;
+    margin-top: 20px;
+}
